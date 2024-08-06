@@ -1,6 +1,6 @@
-## Bienvenido a mi pagina personal
+### Bienvenido a mi pagina personal
 
-Iremos actualizando poco a poco con informacion sobre mi y mi trabajo como Consultor sobre Dynamics 365 y la Power Platform.
+Iremos actualizando poco a poco con información sobre mi y mi trabajo como Consultor sobre Dynamics 365 y la Power Platform.
 
 Esto es una muestra de lo que podemos hacer con GitHub Pages.
 
